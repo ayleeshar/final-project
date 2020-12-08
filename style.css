@@ -262,6 +262,8 @@ padding-top: 10%;
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
     min-width: 120px;
+    text-decoration: none;
+    text-decoration-color: none;
 }
 .block-button:hover, .block-button:active {
     color:#009688;
